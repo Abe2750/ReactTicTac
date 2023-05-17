@@ -1,12 +1,12 @@
 {
   "dependencies": {
+    "fsevents": "^2.3.2",
     "react": "^18.0.0",
-    "react-dom": "^18.0.0",
-    "react-scripts": "^5.0.0"
+    "react-dom": "^18.0.0"
   },
   "main": "/index.js",
   "devDependencies": {
-    "react-scripts": "1.0.0"
+    "react-scripts": "^5.0.1"
   },
   "name": "rqfb6h",
   "description": null,
